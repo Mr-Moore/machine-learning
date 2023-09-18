@@ -1,0 +1,2 @@
+It is a MobilenetV2 structure model using finetune.
+Cite from: https://github.com/GoogleCloudPlatform/practical-ml-vision-book/blob/master/03_image_models/03b_finetune_MOBILENETV2_flowers5.ipynb
