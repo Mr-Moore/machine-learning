@@ -1,0 +1,2 @@
+Use U-net structure to build a model.
+Cite from: https://github.com/GoogleCloudPlatform/practical-ml-vision-book/blob/master/04_detect_segment/04b_unet_segmentation.ipynb
